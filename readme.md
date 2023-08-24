@@ -1,4 +1,4 @@
-#dbx-fitness
+# dbx-fitness
 Using Databricks to ingest/analyze fitness data.
 
 Rough idea is take a universal activity format (TCX? GCX?) that's in XML, parse it/load it into a medallion architecture. Make it useful, serve it up in pretty dashboards in DBSQL.
